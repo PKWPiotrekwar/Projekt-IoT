@@ -1,0 +1,163 @@
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\algorytmy\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\OPCUAAgent.exe
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\algorytmy\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\OPCUAAgent.deps.json
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\algorytmy\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\OPCUAAgent.runtimeconfig.json
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\algorytmy\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\OPCUAAgent.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\algorytmy\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\OPCUAAgent.pdb
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\algorytmy\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\algorytmy\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Opc.UaFx.Client.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\algorytmy\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\algorytmy\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\algorytmy\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\System.Management.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\algorytmy\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\algorytmy\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\System.ServiceModel.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\algorytmy\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\algorytmy\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\algorytmy\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\algorytmy\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.csproj.AssemblyReference.cache
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\algorytmy\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\algorytmy\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.AssemblyInfoInputs.cache
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\algorytmy\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.AssemblyInfo.cs
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\algorytmy\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.csproj.CoreCompileInputs.cache
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\algorytmy\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.csproj.CopyComplete
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\algorytmy\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\algorytmy\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\refint\OPCUAAgent.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\algorytmy\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.pdb
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\algorytmy\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.genruntimeconfig.cache
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\algorytmy\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\ref\OPCUAAgent.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\Projekt\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\OPCUAAgent.exe
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\Projekt\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\OPCUAAgent.deps.json
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\Projekt\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\OPCUAAgent.runtimeconfig.json
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\Projekt\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\OPCUAAgent.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\Projekt\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\OPCUAAgent.pdb
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\Projekt\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\Projekt\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Opc.UaFx.Client.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\Projekt\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\Projekt\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\Projekt\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\System.Management.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\Projekt\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\Projekt\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\System.ServiceModel.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\Projekt\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\Projekt\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\Projekt\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\Projekt\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.csproj.AssemblyReference.cache
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\Projekt\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\Projekt\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.AssemblyInfoInputs.cache
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\Projekt\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.AssemblyInfo.cs
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\Projekt\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.csproj.CoreCompileInputs.cache
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\Projekt\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.csproj.CopyComplete
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\Projekt\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\Projekt\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\refint\OPCUAAgent.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\Projekt\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.pdb
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\Projekt\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.genruntimeconfig.cache
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\Projekt\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\ref\OPCUAAgent.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\OPCUAAgent.exe
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\OPCUAAgent.deps.json
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\OPCUAAgent.runtimeconfig.json
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\OPCUAAgent.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\OPCUAAgent.pdb
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\DotNetty.Buffers.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\DotNetty.Codecs.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\DotNetty.Codecs.Mqtt.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\DotNetty.Common.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\DotNetty.Handlers.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\DotNetty.Transport.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Microsoft.Azure.Devices.Client.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Microsoft.Azure.Devices.Shared.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Opc.UaFx.Client.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\System.Management.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\System.ServiceModel.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Microsoft.WindowsAzure.Storage.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.csproj.AssemblyReference.cache
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.AssemblyInfoInputs.cache
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.AssemblyInfo.cs
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.csproj.CoreCompileInputs.cache
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.csproj.CopyComplete
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\refint\OPCUAAgent.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.pdb
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.genruntimeconfig.cache
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\ref\OPCUAAgent.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Azure.Storage.Queues.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\barte\Desktop\projekty\studia\rok 2\semestr 3\iot\Materialy\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\OPCUAAgent.exe
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\OPCUAAgent.deps.json
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\OPCUAAgent.runtimeconfig.json
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\OPCUAAgent.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\OPCUAAgent.pdb
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Azure.Storage.Queues.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\DotNetty.Buffers.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\DotNetty.Codecs.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\DotNetty.Codecs.Mqtt.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\DotNetty.Common.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\DotNetty.Handlers.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\DotNetty.Transport.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Microsoft.Azure.Devices.Client.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Microsoft.Azure.Devices.Shared.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Opc.UaFx.Client.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\System.Management.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\System.ServiceModel.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\Microsoft.WindowsAzure.Storage.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.csproj.AssemblyReference.cache
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.AssemblyInfoInputs.cache
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.AssemblyInfo.cs
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.sourcelink.json
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.csproj.Up2Date
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\refint\OPCUAAgent.dll
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.pdb
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\OPCUAAgent.genruntimeconfig.cache
+C:\Users\piotr\Desktop\IoT-Project\OPCUAAgent\OPCUAAgent\obj\Debug\net6.0\ref\OPCUAAgent.dll

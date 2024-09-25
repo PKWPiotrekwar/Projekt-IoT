@@ -1,0 +1,5 @@
+Opc server addres:
+opc.tcp://localhost:4840/
+Device primary connection string:
+HostName=ZajeciaZIOT.azure-devices.net;DeviceId=test_device;SharedAccessKey=GcwAJmWaKVDX6eXVJvQVVu4TFeImWJhOAAIoTM2RHXA=
+HostName=ZajeciaZIOT.azure-devices.net;DeviceId=test_device2;SharedAccessKey=bauU3tY5yfX+hfyxJn84OYQgtTBPzyT/aiCMkuaChdU=
